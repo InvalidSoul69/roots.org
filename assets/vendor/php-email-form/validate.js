@@ -6,6 +6,15 @@
 (function () {
   "use strict";
 
+  function escapeHtml(unsafe) {
+    return unsafe
+      .replace(/&/g, "&amp;")
+      .replace(/</g, "&lt;")
+      .replace(/>/g, "&gt;")
+      .replace(/"/g, "&quot;")
+      .replace(/'/g, "&#039;");
+  }
+
   let forms = document.querySelectorAll('.php-email-form');
 
   forms.forEach( function(e) {
@@ -78,7 +87,7 @@
 
   function displayError(thisForm, error) {
     thisForm.querySelector('.loading').classList.remove('d-block');
-    thisForm.querySelector('.error-message').innerHTML = error;
+    thisForm.querySelector('.error-message').innerHTML = escapeHtml(error);
     thisForm.querySelector('.error-message').classList.add('d-block');
   }
 
