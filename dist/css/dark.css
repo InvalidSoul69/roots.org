@@ -1,0 +1,42 @@
+/*
+======================================
+Dark Mode lib (v0.0.1 alpha) By Dejavu
+--------Coded By Sammi Seddig---------
+============2022======================
+*/
+
+
+/* :root {
+    filter: invert(100%);
+} */
+
+.btn-toggle {
+    background: darkcyan;
+    border: none;
+    border-radius: 8px;
+    margin: 10px;
+    padding: 2px;
+    cursor: pointer;
+}
+
+.dark {
+    filter: invert(1) hue-rotate(180deg);
+}
+
+.dark footer {
+    filter: invert(1) hue-rotate(180deg);
+}
+
+.dark img {
+    filter: invert(1) hue-rotate(180deg);
+}
+
+.nee {
+    background: #222;
+    color: #fff;
+}
+
+.nee a {
+    color: #fff;
+    text-decoration: none;
+}
