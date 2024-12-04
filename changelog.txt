@@ -1,5 +1,7 @@
-
-
+Version 6.0.1
+  - updated whole design
+  -added new libraries
+  -added new files and media
 
 Version: 5.2.0
   - Updated whole design 
