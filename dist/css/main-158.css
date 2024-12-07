@@ -5,6 +5,15 @@
  
  /* #1a8030 */
 
+.about-p {
+    font-size: larger;
+    font-weight: lighter;
+
+}
+about-pp{
+    
+}
+
 .container {
     width: 100%;
     padding-right: 15px;
@@ -2854,7 +2863,7 @@ input:-webkit-autofill {
 }
 
 @font-face {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     /* src: url("https://www.vision2030.gov.sa/dist/fonts/29LTBukra-Bold.woff2") format("woff2"), url("https://www.vision2030.gov.sa/dist/fonts/29LTBukra-Bold.woff") format("woff"); */
     font-weight: bold;
     font-style: normal;
@@ -2862,7 +2871,7 @@ input:-webkit-autofill {
 }
 
 @font-face {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     /* src: url("https://www.vision2030.gov.sa/dist/fonts/29LTBukra-Light.woff2") format("woff2"), url("https://www.vision2030.gov.sa/dist/fonts/29LTBukra-Light.woff") format("woff"); */
     font-weight: 300;
     font-style: normal;
@@ -2870,7 +2879,7 @@ input:-webkit-autofill {
 }
 
 @font-face {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     /* src: url("https://www.vision2030.gov.sa/dist/fonts/29LTBukra-Regular.woff2") format("woff2"), url("https://www.vision2030.gov.sa/dist/fonts/29LTBukra-Regular.woff") format("woff"); */
     font-weight: normal;
     font-style: normal;
@@ -2884,7 +2893,7 @@ html {
 }
 
 body {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     overflow-x: hidden
 }
 
@@ -2913,7 +2922,7 @@ a:focus {
 }
 
 h2 {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 6rem;
     line-height: 7.7rem;
     letter-spacing: -0.14rem
@@ -5098,7 +5107,7 @@ header.mobile-menu-opened .nav-list .nav-item ul {
 
 .nav-left ul a,
 .nav-right ul a {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 1.2rem;
     letter-spacing: .05rem;
     line-height: 1.6rem;
@@ -5740,7 +5749,7 @@ header.mobile-menu-opened .nav-list .nav-item ul {
 }
 
 .mobile-menu-icon a span {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 1.1rem;
     line-height: 1.5rem
 }
@@ -6420,7 +6429,7 @@ header.search-opened .mobile-menu-icon span svg circle {
     border: none;
     font-size: 4.8rem;
     line-height: 6.8rem;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     color: #94a1a9
 }
 
@@ -6477,7 +6486,7 @@ header.search-opened .mobile-menu-icon span svg circle {
     color: #94a1a9;
     font-size: 1.2rem;
     line-height: 1.6rem;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     cursor: pointer;
     -webkit-transition: color .3s cubic-bezier(0.165, 0.84, 0.44, 1);
     transition: color .3s cubic-bezier(0.165, 0.84, 0.44, 1)
@@ -6550,7 +6559,7 @@ header.search-opened .mobile-menu-icon span svg circle {
 }
 
 .search-opened-container .inner-container .top p {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 1.4rem;
     line-height: 1.2;
     position: absolute;
@@ -6692,7 +6701,7 @@ header.search-opened .mobile-menu-icon span svg circle {
     background-color: #eaeaea;
     border-radius: 5rem;
     color: #94a1a9;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 1.4rem;
     line-height: 1.8rem;
     min-width: 19rem;
@@ -6783,7 +6792,7 @@ header.search-opened .mobile-menu-icon span svg circle {
 }
 
 .search-opened-container .inner-container .bottom .search-results ol li a strong {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 2rem;
     line-height: 1.2;
     color: #1f396c;
@@ -6812,7 +6821,7 @@ header.search-opened .mobile-menu-icon span svg circle {
 }
 
 .search-opened-container .inner-container .bottom .search-results ol li a p {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     color: #93a1a8;
     font-size: 1.4rem;
     line-height: 2.4rem
@@ -6923,7 +6932,8 @@ footer {
     -ms-flex-pack: justify;
     justify-content: space-between;
     padding: 5.4rem 8.5rem;
-    background-color: #10445a;
+    /* background-color: #10445a; */
+    background: linear-gradient(45deg, #5a3910,#1d590d);
     -ms-flex-wrap: wrap;
     flex-wrap: wrap;
 }
@@ -7150,7 +7160,7 @@ footer .footer-nav-right nav .nav-list .nav-item:hover ul {
 }
 
 footer .footer-nav-right nav .nav-list .nav-item .nav-link {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 1.2rem;
     line-height: 1.6rem;
     letter-spacing: .05rem;
@@ -7244,7 +7254,7 @@ footer .footer-nav-right nav .nav-list .nav-item.has-sub ul li:last-child {
 }
 
 footer .footer-nav-right nav .nav-list .nav-item.has-sub ul li a {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 1.2rem;
     line-height: 4.4rem;
     color: rgba(255, 255, 255, .4);
@@ -7318,7 +7328,7 @@ footer .back-to-top {
 }
 
 footer .back-to-top small {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 1.2rem;
     letter-spacing: .07rem;
     line-height: 1.6rem
@@ -7473,7 +7483,7 @@ footer .footer-bottom {
 }
 
 footer .footer-bottom a {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 1rem;
     color: #fff
 }
@@ -7499,7 +7509,7 @@ footer .footer-bottom .footer-bottom-left a:hover {
 }
 
 footer .footer-bottom p {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 1rem;
     color: #fff;
     position: absolute;
@@ -7634,7 +7644,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 
 .component-h2 {
     margin-bottom: 2rem;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 2.4rem;
     color: red
 }
@@ -7651,7 +7661,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
     position: relative;
     z-index: 1;
     pointer-events: all;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
 }
 
 .animated-link:hover strong {
@@ -7979,7 +7989,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
     font-size: 1.2rem;
     line-height: 1.8rem;
     color: #fff;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     border-radius: 23px;
     background-color: rgba(0, 0, 0, .12);
     -webkit-backdrop-filter: blur(30px);
@@ -8073,7 +8083,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 .card-image-scale .bottom .text-container p {
     position: absolute;
     bottom: 0;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 1.6rem;
     line-height: 2.2rem;
     color: #fff;
@@ -8115,7 +8125,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .card-image-scale .bottom .button-container a {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 1.2rem;
     line-height: 1.6rem;
     letter-spacing: .07rem;
@@ -8289,7 +8299,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .empty-progress-card p {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 2.2rem;
     line-height: 2.8rem;
     margin-bottom: 3.4rem;
@@ -8450,7 +8460,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
     margin-right: auto;
     padding-right: 2rem;
     word-break: break-word;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 2.2rem;
     line-height: 3rem;
     color: #fff
@@ -8572,7 +8582,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 .program-card .card-hover-content h4 {
     font-size: 2.6rem;
     line-height: 3.4rem;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     color: #1c315b;
     margin-bottom: 2.2rem;
     margin-top: 3rem
@@ -8594,7 +8604,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .program-card .card-hover-content p {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 1.4rem;
     line-height: 2.4rem;
     color: #1c315b;
@@ -8703,7 +8713,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 
 .flip-card .card-front .front-content p {
     word-break: break-word;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 2.2rem;
     line-height: 3rem;
     color: #fff;
@@ -8792,7 +8802,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 .flip-card .card-back .card-back-content h4 {
     font-size: 2.6rem;
     line-height: 3.4rem;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     color: #1c315b;
     margin-bottom: 2.2rem;
     margin-top: 3rem
@@ -8814,7 +8824,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .flip-card .card-back .card-back-content p {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 1.4rem;
     line-height: 2.4rem;
     color: #1c315b;
@@ -8849,7 +8859,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .objective-box .objective-top h3 {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 1.2rem;
     letter-spacing: .14rem;
     color: #b4bdc1
@@ -8920,7 +8930,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .objective-box p {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 4rem;
     line-height: 5.4rem;
     max-width: 54.5rem
@@ -9031,7 +9041,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .form-group label {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 1.1rem;
     color: #94a1a9;
     margin-bottom: 1.2rem;
@@ -9056,31 +9066,31 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 .form-group input::-webkit-input-placeholder {
     color: rgba(148, 161, 169, .3);
     font-size: inherit;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
 }
 
 .form-group input::-moz-placeholder {
     color: rgba(148, 161, 169, .3);
     font-size: inherit;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
 }
 
 .form-group input:-ms-input-placeholder {
     color: rgba(148, 161, 169, .3);
     font-size: inherit;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
 }
 
 .form-group input::-ms-input-placeholder {
     color: rgba(148, 161, 169, .3);
     font-size: inherit;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
 }
 
 .form-group input::placeholder {
     color: rgba(148, 161, 169, .3);
     font-size: inherit;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
 }
 
 @media(max-width: 1279px) {
@@ -9196,7 +9206,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
     color: rgba(255, 255, 255, .5);
     font-size: 1.2rem;
     line-height: 1.6rem;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     white-space: nowrap;
     -webkit-transition: color .3s ease-in-out;
     transition: color .3s ease-in-out
@@ -9588,7 +9598,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .popup-container h6 {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 3.8rem;
     line-height: 1.2;
     color: #1f396c;
@@ -9610,7 +9620,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .popup-container p {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 1.4rem;
     line-height: 2.4rem;
     color: #7f8689;
@@ -9673,7 +9683,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .popup-container span {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 2rem
 }
 
@@ -9684,7 +9694,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .popup-container time {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 3.2rem
 }
 
@@ -9741,7 +9751,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 
 .summary-section .summary-content p {
     color: #7f8689;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
 }
 
 .summary-section .summary-content p:not(:last-child) {
@@ -9891,7 +9901,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 
 .title-and-description-section .content h3 {
     font-size: 2.5rem;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     color: #1f396c;
     margin-bottom: 3.5rem
 }
@@ -9920,7 +9930,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 
 .title-and-description-section .content p {
     color: #7f8689;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 1.6rem;
     line-height: 2.6rem
 }
@@ -9999,12 +10009,12 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 
 .post-container strong,
 .post-container time {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
 }
 
 .post-container p {
     color: #93a1a8;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 1.4rem;
     line-height: 2.4rem;
     padding: 2rem 0
@@ -10013,7 +10023,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 .post-container h1,
 .post-container h2,
 .post-container h3 {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     color: #1f396c
 }
 
@@ -10085,7 +10095,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .post-container .post-img-gallery figure figcaption {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 1.2rem;
     line-height: 2.4rem;
     color: #93a1a8;
@@ -10190,7 +10200,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
     -webkit-box-align: center;
     -ms-flex-align: center;
     align-items: center;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 1.2rem;
     letter-spacing: .07rem;
     line-height: 1.6rem;
@@ -10235,7 +10245,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 
 .post-container ul li {
     color: #93a1a8;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 1.4rem;
     line-height: 2.4rem;
     list-style: inside
@@ -10374,7 +10384,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .post-container .optional-documents-section a strong {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 2.2rem;
     line-height: 1.25;
     color: #93a1a8;
@@ -10396,7 +10406,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 
 .post-container .optional-documents-section a .file-info p {
     color: #2881c2;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 1.2rem;
     letter-spacing: .05rem;
     line-height: 3rem;
@@ -10465,7 +10475,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .post-container .optional-documents-section a span b {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 1.2rem;
     letter-spacing: .05rem;
     line-height: 3rem;
@@ -10649,7 +10659,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .post-container .optional-link-section strong {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 3rem;
     line-height: 4rem
 }
@@ -10687,7 +10697,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
     line-height: 3.2rem;
     max-width: 45.5rem;
     width: 100%;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
 }
 
 @media(max-width: 767px) {
@@ -10715,7 +10725,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
     width: 100%;
     font-size: 1.8rem;
     line-height: 3.2rem;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     margin: 0;
     padding: 0;
     color: #fff
@@ -10740,7 +10750,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .post-container .optional-link-section small {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 1.2rem;
     line-height: 1.6rem;
     letter-spacing: .07rem
@@ -10880,7 +10890,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .interactive-map .vertical-locations {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 3.6rem;
     color: #b4bdc1;
     margin-top: auto;
@@ -10983,7 +10993,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .interactive-map h3 {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 8.4rem;
     line-height: 9.4rem;
     color: #1a8030;
@@ -11020,7 +11030,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .interactive-map p {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 1.4rem;
     line-height: 2.4rem;
     color: #93a1a8;
@@ -11046,7 +11056,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .interactive-map h4 {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 2.8rem;
     line-height: 1.2;
     color: #b4bdc1;
@@ -11167,7 +11177,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
     -webkit-box-pack: justify;
     -ms-flex-pack: justify;
     justify-content: space-between;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 1.6rem;
     line-height: 1.2;
     color: #fff;
@@ -11297,7 +11307,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 
 .interactive-map .owl-nav span {
     margin: 0 2rem;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 1.2rem;
     line-height: 1.6rem;
     letter-spacing: .07rem;
@@ -11392,7 +11402,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
     background-color: #fff;
     color: #25b4ba;
     font-size: 1.6rem;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
 }
 
 .section-1 {
@@ -11558,7 +11568,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .section-1 .section-1-wrapper .section-1-content span {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 2.2rem;
     line-height: 3.3rem;
     color: #22a8ad;
@@ -11586,7 +11596,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .section-1 .section-1-wrapper .section-1-content p {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 4rem;
     line-height: 5.4rem;
     color: #fff;
@@ -11657,7 +11667,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .section-2 h2 {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 3.6rem;
     line-height: 13rem;
     color: #1f396c
@@ -11796,7 +11806,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 
 .section-3 h2 {
     text-align: center;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 3.6rem;
     color: #93a1a8;
     padding-top: 11.8rem
@@ -11940,7 +11950,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 .section-3 .section-3-container .section-3-item p {
     z-index: 1;
     position: absolute;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 3rem;
     line-height: 4.4rem;
     letter-spacing: -0.25rem;
@@ -12183,7 +12193,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 
 .section-3-2-container h3 {
     text-align: center;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 3.6rem;
     color: #93a1a8;
     line-height: 13rem;
@@ -12300,7 +12310,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .section-3-2-container .section-3-2-slider-box strong {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 5.2rem;
     line-height: 7.4rem;
     letter-spacing: -0.05rem
@@ -12472,7 +12482,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .section-3-2-container .section-3-2-slider-box .section-3-2-slider-box-bottom p {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 1.4rem;
     line-height: 2.3rem;
     color: #fff;
@@ -12626,7 +12636,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .section-4 h2 {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 3.6rem;
     width: 100%;
     color: #93a1a8;
@@ -12729,7 +12739,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .section-4 .slider-6 .slider-6-box h3 {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 2.4rem;
     position: relative;
     padding-bottom: 2.5rem;
@@ -12806,7 +12816,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .section-4 .slider-6 .slider-6-box p {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 1.6rem;
     line-height: 2rem
 }
@@ -13143,7 +13153,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .section-5 .slider-7 .owl-nav button span {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 1.2rem;
     line-height: 1.6rem;
     letter-spacing: .07rem;
@@ -13365,7 +13375,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 .section-5 .slider-7 .slider-7-box .content-container time {
     background-color: #93a1a8;
     border-radius: 300px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 1.2rem;
     line-height: 1.6rem;
     letter-spacing: .1rem;
@@ -13387,7 +13397,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 
 .section-5 .slider-7 .slider-7-box .content-container h3 {
     max-width: 42.3rem;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 3.2rem;
     line-height: 4.2rem;
     color: #1a8030;
@@ -13454,7 +13464,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .section-5 .view-all-btn {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 1.1rem;
     line-height: 1.5rem;
     letter-spacing: .07rem;
@@ -13641,7 +13651,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .section-6 .section-6-slider .owl-nav button span {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 1.2rem;
     line-height: 1.6rem;
     letter-spacing: .07rem;
@@ -13862,7 +13872,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 .section-6 .section-6-slider .section-6-box .content-container time {
     background-color: #93a1a8;
     border-radius: 300px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 1.2rem;
     line-height: 1.6rem;
     letter-spacing: .1rem;
@@ -13891,7 +13901,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 
 .section-6 .section-6-slider .section-6-box .content-container h3 {
     max-width: 42.3rem;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 3.2rem;
     line-height: 4.2rem;
     color: #1a8030;
@@ -13921,7 +13931,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .section-6 .section-6-slider .section-6-box .content-container p {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 1.4rem;
     line-height: 2.2rem;
     max-width: 40.6rem;
@@ -13994,7 +14004,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .section-6 .view-all-btn {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 1.1rem;
     line-height: 1.5rem;
     letter-spacing: .07rem;
@@ -14091,7 +14101,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .section-6-swiper-container span {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 2rem;
     line-height: 1.2;
     color: #93a1a8;
@@ -14189,7 +14199,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .section-6-swiper-container .section-6-swiper .owl-nav button span {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 1.2rem;
     line-height: 1.6rem;
     letter-spacing: .07rem;
@@ -14415,7 +14425,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 .section-6-swiper-container .section-6-swiper .section-6-box .content-container time {
     background-color: #93a1a8;
     border-radius: 300px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 1.2rem;
     line-height: 1.6rem;
     letter-spacing: .1rem;
@@ -14444,7 +14454,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 
 .section-6-swiper-container .section-6-swiper .section-6-box .content-container h3 {
     max-width: 42.3rem;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 3.2rem;
     line-height: 4.2rem;
     color: #1a8030;
@@ -14474,7 +14484,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .section-6-swiper-container .section-6-swiper .section-6-box .content-container p {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 1.4rem;
     line-height: 2.2rem;
     max-width: 40.6rem;
@@ -14568,7 +14578,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .section-6-swiper-container .view-all-btn {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 1.1rem;
     line-height: 1.5rem;
     letter-spacing: .07rem;
@@ -14693,7 +14703,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 
 .section-6-swiper-container .swiper-button-prev span,
 .section-6-swiper-container .swiper-button-next span {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 1.2rem;
     line-height: 1.6rem;
     letter-spacing: .07rem;
@@ -14806,7 +14816,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .section-7 h2 {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 3.6rem;
     line-height: 1.2;
     margin-bottom: 7rem;
@@ -14894,12 +14904,12 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .section-7 span {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     margin: 3rem 0 1.5rem 0
 }
 
 .section-7 p {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     margin-bottom: 2rem
 }
 
@@ -14932,7 +14942,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .section-8 h2 {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 3.6rem;
     line-height: 1.15;
     margin-bottom: .8rem;
@@ -14948,7 +14958,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .section-8 p {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 2.6rem;
     line-height: 1.15;
     color: #93a1a8;
@@ -15063,7 +15073,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .section-9 h2 {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 3.6rem;
     line-height: 6.4rem;
     color: #71b446;
@@ -15261,7 +15271,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
     width: 54rem;
     font-size: 1.6rem;
     line-height: 2.4rem;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     color: #93a1a8;
     top: 0
 }
@@ -15285,7 +15295,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
     max-width: 9.8rem;
     width: 100%;
     text-align: center;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 1.6rem;
     line-height: 2.4rem;
     display: -webkit-box;
@@ -15348,7 +15358,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
     font-size: 1.6rem;
     line-height: 2.8rem;
     text-align: center;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
 }
 
 .section-9 p:not(:last-child) {
@@ -15530,7 +15540,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
     width: 100%;
     text-align: center;
     margin-top: 2rem;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
 }
 
 @media(max-width: 1023px) {
@@ -15543,7 +15553,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 .section-10 .circle-wrapper span,
 .section-10 .circle-wrapper i,
 .section-10 .circle-wrapper small {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
 }
 
 .ltr .section-10 .circle-wrapper span,
@@ -16172,7 +16182,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
     max-width: 64rem;
     width: 100%;
     margin: 0 auto;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 2rem;
     line-height: 4rem;
     color: #133264;
@@ -16338,7 +16348,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .section-12 .selected-phase {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     color: #1b376e;
     display: -webkit-box;
     display: -ms-flexbox;
@@ -16439,7 +16449,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .section-12 li .to-phase-title {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 2.4rem;
     line-height: 3.4rem;
     color: #0083cd;
@@ -16598,7 +16608,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .section-12 .card p {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 2.1rem;
     line-height: 3.2rem;
     color: #fff;
@@ -16630,7 +16640,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
     -webkit-box-direction: normal;
     -ms-flex-direction: column;
     flex-direction: column;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     width: 100%
 }
 
@@ -16983,7 +16993,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .home-hero-section-inner .swiper-pagination .button span {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 1.1rem;
     line-height: 1.5rem;
     letter-spacing: .14rem;
@@ -17066,7 +17076,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 
 .home-hero-section-inner .scroll-to-explore {
     color: #fff;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 1.1rem;
     line-height: 1.5rem;
     letter-spacing: .07rem;
@@ -17773,7 +17783,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 
 .vision-programs-section .vision-right .owl-nav button span {
     margin-top: 1rem;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 1.1rem;
     line-height: 1.5rem;
     letter-spacing: .14rem;
@@ -17819,7 +17829,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .vision-programs-section .view-all-btn {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 1.1rem;
     color: #fff;
     padding-bottom: .8rem;
@@ -17930,7 +17940,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 .giga-projects-section .tab-wrapper .tabs .tab {
     font-size: 3rem;
     line-height: 7.7rem;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     letter-spacing: -0.14rem;
     color: rgba(255, 255, 255, .3);
     -webkit-transition: color .3s cubic-bezier(0.165, 0.84, 0.44, 1), -webkit-transform .3s cubic-bezier(0.165, 0.84, 0.44, 1);
@@ -18181,7 +18191,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .giga-projects-section .tab-wrapper .tab-container .tab-detail .project-content h3 {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 4.8rem;
     line-height: 7.7rem;
     letter-spacing: -0.14rem;
@@ -18223,7 +18233,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
     color: rgba(255, 255, 255, .7);
     font-size: 1.6rem;
     line-height: 2.5rem;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     margin-bottom: 2.3rem;
     max-width: 65.4rem;
     position: relative;
@@ -18442,7 +18452,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .giga-projects-section .tab-wrapper .view-all-btn {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 1.1rem;
     color: #fff;
     padding-bottom: .8rem;
@@ -18607,7 +18617,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 
 .achievements-section .years-container .years-inner-container .tab {
     color: rgba(180, 189, 193, .5);
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 2.6rem;
     line-height: 1.2;
     text-align: right;
@@ -18770,7 +18780,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
     -ms-flex-negative: 0;
     flex-shrink: 0;
     color: rgba(217, 222, 224, .3);
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
 }
 
 @media(max-width: 1440px) {
@@ -18950,7 +18960,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
     align-items: center;
     font-size: 1.4rem;
     line-height: 1.8rem;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     color: #fff;
     border-radius: 23px;
     -webkit-backdrop-filter: blur(3rem);
@@ -19191,7 +19201,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .achievements-section .view-all-btn {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 1.1rem;
     line-height: 1.15;
     color: #1f396c;
@@ -19215,6 +19225,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 
 .about-the-kingdom-section {
     width: 100%;
+    height: auto;
     overflow: hidden;
     display: -webkit-box;
     display: -ms-flexbox;
@@ -19287,7 +19298,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .about-the-kingdom-section .tab-wrapper .tabs .tab {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     color: rgba(255, 255, 255, .5);
     font-size: 2rem;
     line-height: 7.7rem;
@@ -19496,7 +19507,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 
 .about-the-kingdom-section .tab-wrapper .tab-container .tab-detail-inner h3 {
     max-width: 57.1rem;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 4.8rem;
     line-height: 7rem;
     letter-spacing: -0.14rem;
@@ -19583,16 +19594,16 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .about-the-kingdom-section .tab-wrapper .tab-container .tab-detail-inner .about-the-kingdom-content p {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size: 1.4rem;
-    line-height: 2.2rem;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
+    font-size: 2.4rem;
+    
     margin-bottom: 4.5rem;
     color: #fff
 }
 
 @media(max-width: 1279px) {
     .about-the-kingdom-section .tab-wrapper .tab-container .tab-detail-inner .about-the-kingdom-content p {
-        font-size: 1.2rem;
+        font-size: 2.2rem;
         line-height: 1.8rem;
         margin-bottom: 2.8rem
     }
@@ -19606,15 +19617,15 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 
 @media(max-width: 1279px) {
     .about-the-kingdom-section .tab-wrapper .tab-container .tab-detail-inner .about-the-kingdom-content a {
-        font-size: 1.1rem;
+        font-size: 2.1rem;
         line-height: 1.5rem
-    }
+    }S
 }
 
 .news-section {
     position: relative;
     padding: 8.6rem 0 11rem 0;
-    background-color: #fff
+    
 }
 
 @media(max-width: 1279px) {
@@ -19816,7 +19827,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
     color: #9daab0;
     font-size: 1.2rem;
     line-height: 1.6rem;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     letter-spacing: .07rem
 }
 
@@ -19862,7 +19873,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
     justify-content: space-between;
     padding: 7rem;
     background: -webkit-gradient(linear, left bottom, right top, from(#2882c3), to(#1f396c));
-    background: linear-gradient(to top right, #2882c3, #1f396c);
+    background: linear-gradient(to top right, #177c13, #1f396c);
     border-radius: 20px
 }
 
@@ -19890,7 +19901,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
     font-size: 3rem;
     line-height: 4rem;
     letter-spacing: -0.14rem;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
 }
 
 @media(max-width: 1279px) {
@@ -19964,7 +19975,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .news-section .view-all-container.mobile .view-all-btn {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 1.1rem;
     line-height: 1.15;
     color: #1f396c;
@@ -19987,7 +19998,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 .slide-index {
     font-size: 1.2rem;
     line-height: 1.6rem;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     color: #fff;
     position: absolute;
     bottom: 2rem;
@@ -20087,7 +20098,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .body-home .owl-nav button span {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 1.1rem;
     line-height: 1.5rem;
     letter-spacing: .14rem;
@@ -20219,7 +20230,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .discover-hero-section h1 {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 11rem;
     line-height: 12rem;
     letter-spacing: -0.25rem;
@@ -20266,7 +20277,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .discover-hero-section p {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 2.4rem;
     line-height: 3.6rem;
     color: #fff;
@@ -20625,7 +20636,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .discover-content-section .discover-row .discover-col .heading-wrapper h2 {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 8.4rem;
     letter-spacing: -0.25rem;
     line-height: 9rem
@@ -20658,7 +20669,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 
 .discover-content-section .discover-row .discover-col p {
     margin-bottom: 3rem;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 1.4rem;
     line-height: 2.4rem;
     color: #b4bdc1
@@ -20781,7 +20792,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
     color: transparent;
     font-size: 25rem;
     letter-spacing: -0.25rem;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     z-index: -1;
     pointer-events: none
 }
@@ -20948,7 +20959,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .discover-content-section .explore-container p {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 3rem;
     line-height: 4rem;
     letter-spacing: -1.4px;
@@ -21025,7 +21036,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
     background: rgba(255, 255, 255, .15);
     -webkit-backdrop-filter: blur(7px);
     backdrop-filter: blur(7px);
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 1.1rem;
     letter-spacing: .2rem;
     color: #fff;
@@ -21066,7 +21077,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .investment-fund-hero-section .hero-content h1 {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 8.4rem;
     line-height: 11rem;
     color: #fff;
@@ -21132,7 +21143,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .additional-content-section h2 {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 3.6rem;
     margin-bottom: 9rem;
     width: 100%;
@@ -21277,7 +21288,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .additional-content-section .document-container .document-box h3 {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 2.8rem;
     color: #fff
 }
@@ -21302,7 +21313,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 
 .additional-content-section .document-container .document-box .document-content .file-info p {
     color: #1f396c;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 1.4rem;
     line-height: 3.2rem;
     letter-spacing: .05rem
@@ -21371,7 +21382,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .additional-content-section .document-container .document-box .document-content .download-btn small {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 1.2rem;
     letter-spacing: .07rem;
     line-height: 1.6rem;
@@ -21621,7 +21632,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .contact-detail-section .contact-detail-wrapper .contact-detail-item p {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 3rem;
     line-height: 4rem;
     letter-spacing: -0.14rem
@@ -21674,7 +21685,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 
 .contact-detail-section .contact-detail-wrapper .contact-detail-item.contact-detail-box .contact-detail-info span {
     display: block;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 1.8rem;
     line-height: 3.2rem;
     letter-spacing: -0.14rem
@@ -21807,7 +21818,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .invest-saudi-arabia-hero-section .hero-content h1 {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 8.4rem;
     line-height: 11rem;
     color: #fff;
@@ -21892,7 +21903,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
     margin-bottom: 9.3rem;
     font-size: 2.4rem;
     color: #7f8689;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     text-align: center
 }
 
@@ -21981,7 +21992,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
     -ms-flex-align: center;
     align-items: center;
     width: 100%;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
 }
 
 @media(max-width: 1279px) {
@@ -22281,7 +22292,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .investment-opportunities-section h2 {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 3.6rem;
     line-height: 1.25;
     margin-bottom: 6.2rem;
@@ -22414,7 +22425,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .investment-opportunities-section .slider-with-thumb .slider-popup h5 {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 3rem;
     color: #fff;
     margin-bottom: 7rem;
@@ -22627,7 +22638,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 .investment-opportunities-section .slider-with-thumb .slider-popup .box p,
 .investment-opportunities-section .slider-with-thumb .slider-popup .box small,
 .investment-opportunities-section .slider-with-thumb .slider-popup .box i {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
 }
 
 .investment-opportunities-section .slider-with-thumb .slider-popup .box span {
@@ -22901,7 +22912,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 
 .investment-opportunities-section .slide-content ul li span {
     color: #1a8030;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 1rem;
     line-height: 1.2rem;
     letter-spacing: .1rem
@@ -22919,7 +22930,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .investment-opportunities-section .slide-content h4 {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 8.4rem;
     line-height: 1.25;
     letter-spacing: -0.14rem;
@@ -22957,11 +22968,11 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .investment-opportunities-section .slide-content h4 strong {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
 }
 
 .investment-opportunities-section .slide-content p {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 1.4rem;
     line-height: 2.4rem;
     margin-bottom: 1rem;
@@ -23130,7 +23141,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .investment-opportunities-section .big-slider .owl-nav button span {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 1.1rem;
     line-height: 1.5rem;
     letter-spacing: .14rem;
@@ -23309,7 +23320,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
     transition: bottom .3s ease-in-out, transform .3s ease-in-out;
     transition: bottom .3s ease-in-out, transform .3s ease-in-out, -webkit-transform .3s ease-in-out;
     bottom: 0;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 1.6rem;
     line-height: 2rem
 }
@@ -23527,7 +23538,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .learn-more-section .learn-more-wrapper .learn-more-item p {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 3rem;
     line-height: 4rem;
     letter-spacing: -0.14rem
@@ -23822,7 +23833,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .visit-saudi-arabia-hero-section .hero-content h1 {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 8.4rem;
     line-height: 11rem;
     color: #fff;
@@ -23884,7 +23895,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .key-destinations-section h2 {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 3.6rem;
     line-height: 1.25;
     margin-bottom: 6.2rem;
@@ -24052,7 +24063,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 
 .key-destinations-section .slide-content ul li span {
     color: #1a8030;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 1rem;
     line-height: 1.2rem;
     letter-spacing: .1rem
@@ -24070,7 +24081,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .key-destinations-section .slide-content h4 {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 8.4rem;
     line-height: 1.25;
     letter-spacing: -0.14rem;
@@ -24108,11 +24119,11 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .key-destinations-section .slide-content h4 strong {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
 }
 
 .key-destinations-section .slide-content p {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 1.4rem;
     line-height: 2.4rem;
     margin-bottom: 1rem;
@@ -24275,7 +24286,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .key-destinations-section .big-slider .owl-nav button span {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 1.1rem;
     line-height: 1.5rem;
     letter-spacing: .14rem;
@@ -24454,7 +24465,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
     transition: bottom .3s ease-in-out, transform .3s ease-in-out;
     transition: bottom .3s ease-in-out, transform .3s ease-in-out, -webkit-transform .3s ease-in-out;
     bottom: 0;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 1.6rem
 }
 
@@ -24585,7 +24596,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .tourist-visa-section h2 {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 3.6rem;
     line-height: 1.25;
     margin-bottom: 6.2rem;
@@ -24690,7 +24701,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .tourist-visa-section .tourist-visa-container .tourist-visa-content-container p {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     color: #fff
 }
 
@@ -24893,7 +24904,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .contact-form-section h1 {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 8.4rem;
     margin-bottom: 6.4rem;
     color: #1a8030;
@@ -24987,7 +24998,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .contact-form-section ul p {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 2.6rem;
     line-height: 3.2rem;
     color: #1a8030
@@ -25108,7 +25119,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .contact-form-section ul small {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 1.1rem;
     margin-bottom: 1.2rem;
     color: rgba(148, 161, 169, .5)
@@ -25128,7 +25139,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .contact-form-section ul a {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 1.8rem;
     color: #94a1a9;
     word-break: break-all
@@ -25246,7 +25257,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 
 .contact-us-section .contact-us-row .contact-us-box h3 {
     width: 100%;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 3rem;
     line-height: 4rem;
     color: #1a8030;
@@ -25326,7 +25337,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
     font-size: 1.1rem;
     margin-bottom: 1.2rem;
     color: rgba(148, 161, 169, .5);
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     display: block
 }
 
@@ -25342,7 +25353,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
     font-size: 1.8rem;
     line-height: 2.6rem;
     color: #94a1a9;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     display: block
 }
 
@@ -25362,7 +25373,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 
 .contact-us-section .follow-us-row h2 {
     text-align: center;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 3.6rem;
     color: #fff;
     margin-bottom: 10.7rem
@@ -25457,7 +25468,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .contact-us-section .follow-us-row .social-media-list li p {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     color: #fff;
     font-size: 2rem;
     letter-spacing: .05rem;
@@ -25500,7 +25511,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .contact-us-section .follow-us-row .social-media-list li span {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 1.6rem;
     margin: 2.6rem 0 3.5rem 0;
     color: #fff
@@ -25592,7 +25603,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .related-websites-section h2 {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 3.6rem;
     color: #94a1a9;
     margin-bottom: 8.1rem;
@@ -25796,7 +25807,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 
 .related-websites-section ul li h4 {
     position: relative;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 2.2rem;
     line-height: 2.8rem;
     padding: 4.5rem 0 2.2rem 0;
@@ -25918,7 +25929,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .related-websites-section ul li p {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 1.4rem;
     color: #94a1a9
 }
@@ -25979,7 +25990,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .vision-2030-detail-hero-section h1 {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 11rem;
     line-height: 12rem;
     letter-spacing: -0.25rem;
@@ -26026,7 +26037,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .vision-2030-detail-hero-section p {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 2.4rem;
     line-height: 3.6rem;
     color: #fff;
@@ -26177,7 +26188,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .vision-2030-detail-hero-section .download-btn p {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 1.2rem;
     line-height: 1.6rem;
     letter-spacing: .07rem;
@@ -26417,7 +26428,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .crown-prince-message-section .crown-prince-message-container .crown-prince-message-wrapper .crown-prince-message-content .prince-info span {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 1.2rem;
     line-height: 2.2rem;
     letter-spacing: .05rem;
@@ -26455,7 +26466,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .crown-prince-message-section .crown-prince-message-container .crown-prince-message-wrapper .crown-prince-message-content p {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 3rem;
     line-height: 4.4rem;
     letter-spacing: -0.025rem;
@@ -26649,7 +26660,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .instrinsic-section h2 {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     color: #1f396c;
     font-size: 3rem;
     line-height: 1.2;
@@ -26678,7 +26689,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
     -webkit-box-align: start;
     -ms-flex-align: start;
     align-items: flex-start;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
 }
 
 .instrinsic-section li:not(:last-child) {
@@ -26713,6 +26724,21 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 
 .instrinsic-section li:nth-child(3) p::before {
     background-color: #4a96cc
+}
+
+.instrinsic-section li:nth-child(4) {
+    color: #3e5480
+}
+
+.instrinsic-section li:nth-child(4) p::before {
+    background-color: #3e5480
+}
+.instrinsic-section li:nth-child(5) {
+    color: #42bec3
+}
+
+.instrinsic-section li:nth-child(5) p::before {
+    background-color: #42bec3
 }
 
 .instrinsic-section span {
@@ -26795,7 +26821,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .vision-themes-section h2 {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     color: #1f396c;
     font-size: 3.6rem;
     line-height: 1.25;
@@ -26857,7 +26883,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 
 .vision-themes-section .vision-themes-container .vision-themes-subtitle {
     text-align: center;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 1.4rem;
     line-height: 2.4rem;
     color: #7f8689;
@@ -27028,7 +27054,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .vision-themes-section .vision-themes-container .vision-themes-slider .vision-themes-box strong {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 2.5rem;
     line-height: 3.4rem;
     margin: 3rem 0;
@@ -27060,7 +27086,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .vision-themes-section .vision-themes-container .vision-themes-slider .vision-themes-box p {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 1.4rem;
     line-height: 2.4rem;
     color: #93a1a8;
@@ -27140,7 +27166,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .vision-themes-section .vision-themes-container .vision-themes-slider .vision-themes-box small {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 1.2rem;
     line-height: 1.6rem;
     letter-spacing: .07rem;
@@ -27463,7 +27489,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .vision-themes-section .vision-themes-container .slider-popup .popup-content h5 {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 3.6rem;
     line-height: 3.8rem;
     color: #fff;
@@ -27541,7 +27567,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
     -webkit-backdrop-filter: blur(30px);
     backdrop-filter: blur(30px);
     background-color: rgba(255, 255, 255, .04);
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 1.1rem;
     line-height: 1.5rem;
     letter-spacing: .05rem;
@@ -27589,7 +27615,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .vision-themes-section .vision-themes-container .slider-popup .popup-content p {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 1.2rem;
     line-height: 2.4rem;
     color: #fff
@@ -27750,7 +27776,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .governance-model-section .governance-model-info p {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     color: #fff
 }
 
@@ -27929,7 +27955,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .governance-model-section .governance-model-slider .governance-model-box b {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 1.4rem;
     letter-spacing: .1rem;
     color: rgba(255, 255, 255, .5)
@@ -27946,7 +27972,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .governance-model-section .governance-model-slider .governance-model-box strong {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 2.2rem;
     line-height: 3rem;
     color: #1f396c;
@@ -27996,7 +28022,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .governance-model-section .governance-model-slider .governance-model-box p {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 2rem;
     line-height: 3rem;
     text-align: center;
@@ -28022,7 +28048,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .governance-model-section .governance-model-slider .governance-model-box p small {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 1.2rem;
     margin-bottom: .7rem;
     margin-top: 1rem;
@@ -28112,7 +28138,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 
 .governance-model-section .governance-model-slider .governance-model-box ul li span {
     color: #fff;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 1.1rem;
     line-height: 1.5rem;
     letter-spacing: .05rem
@@ -28164,7 +28190,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .vision-2030-additional-files-section h2 {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 3.6rem;
     line-height: 1.25;
     margin-bottom: 8.9rem;
@@ -28315,7 +28341,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .vision-2030-additional-files-section .files-container a strong {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 2.2rem;
     line-height: 1.25;
     color: #93a1a8;
@@ -28337,7 +28363,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 
 .vision-2030-additional-files-section .files-container a .file-info p {
     color: #2881c2;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 1.2rem;
     letter-spacing: .05rem;
     line-height: 3rem;
@@ -28404,7 +28430,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .vision-2030-additional-files-section .files-container a span b {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 1.2rem;
     letter-spacing: .05rem;
     line-height: 3rem;
@@ -28534,7 +28560,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .achievements-kpi-hero-section .hero-content h1 {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 8.4rem;
     line-height: 11rem;
     color: #fff;
@@ -28662,7 +28688,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .achievements-kpi-slider-section .tab-wrapper .years-container .years-inner-container .tab {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 3.6rem;
     line-height: 1.25;
     color: rgba(147, 161, 168, .3);
@@ -28885,7 +28911,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .achievements-kpi-slider-section .tab-wrapper .achievements-kpi-container .tab-detail .achievements-kpi-slider .owl-nav button span {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 1.1rem;
     line-height: 1.5rem;
     letter-spacing: .07rem;
@@ -28980,7 +29006,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
     align-items: center;
     font-size: 1.4rem;
     line-height: 1.8rem;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     color: #fff;
     border-radius: 23px;
     -webkit-backdrop-filter: blur(3rem);
@@ -29067,7 +29093,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .achievements-kpi-additional-files-section h2 {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 3.6rem;
     line-height: 1.25;
     margin-bottom: 8.9rem;
@@ -29213,7 +29239,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .achievements-kpi-additional-files-section .files-container a strong {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 2.2rem;
     line-height: 1.25;
     color: #93a1a8;
@@ -29236,7 +29262,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 
 .achievements-kpi-additional-files-section .files-container a .file-info p {
     color: #2881c2;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 1.2rem;
     letter-spacing: .05rem;
     line-height: 3rem;
@@ -29303,7 +29329,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .achievements-kpi-additional-files-section .files-container a span b {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 1.2rem;
     letter-spacing: .05rem;
     line-height: 3rem;
@@ -29394,7 +29420,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .body-prince-message h2 {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     color: #1f396c;
     font-size: 3rem;
     line-height: 1.2;
@@ -29467,7 +29493,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .prince-message-hero-section .hero-content h1 {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 8.4rem;
     line-height: 11rem;
     color: #fff;
@@ -29533,7 +29559,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .prince-message-container figure blockquote {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 2.8rem;
     line-height: 4rem;
     color: #fff;
@@ -29690,7 +29716,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 
 .prince-message-container figure figcaption cite small {
     display: block;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 1.6rem;
     letter-spacing: .05rem;
     line-height: 2.6rem;
@@ -29780,7 +29806,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .about-the-kingdom-hero-section h1 {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 11rem;
     line-height: 12rem;
     letter-spacing: -0.25rem;
@@ -29949,7 +29975,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .about-the-kingdom-hero-section .about-the-kingdom-menu a span strong {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 2rem;
     line-height: 3rem;
     color: #fff;
@@ -30084,7 +30110,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .project-detail-hero-section .hero-content h1 {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 8.4rem;
     line-height: 11rem;
     color: #fff;
@@ -30148,7 +30174,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .objectives-section h2 {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 3.6rem;
     text-align: center;
     margin-bottom: 6.6rem;
@@ -30448,7 +30474,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
     -webkit-transition: opacity .3s ease-in-out;
     transition: opacity .3s ease-in-out;
     margin-top: 1rem;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 1.1rem;
     color: #9daab0
 }
@@ -30562,7 +30588,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 
 .objectives-section .objective-slider-container .objective-info-container ul li a {
     display: inline-block;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     color: rgba(180, 189, 193, .5);
     font-size: 1.6rem;
     letter-spacing: .14rem;
@@ -30694,7 +30720,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .objectives-section .objective-slider-container .objective-info-container .objective-info-slider .objective-info-item p {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 1.8rem;
     line-height: 1.5;
     color: #1f396c
@@ -30738,7 +30764,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .main-projects-section h2 {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 3.6rem;
     text-align: center;
     margin-bottom: 36.5rem;
@@ -30926,7 +30952,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .main-projects-section .main-project-item p {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 1.1rem;
     color: rgba(255, 255, 255, .5);
     margin-bottom: 3rem
@@ -30972,7 +30998,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .main-projects-section .main-project-item span {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 3.2rem;
     line-height: 4.2rem;
     color: #fff
@@ -31022,7 +31048,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 .project-in-numbers-section h2 {
     font-size: 3rem;
     line-height: 3.2rem;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     color: #1f396c;
     text-align: center;
     margin-bottom: 9.3rem
@@ -31148,7 +31174,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .project-in-numbers-section .project-in-numbers-slider .project-info-box strong {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 6.2rem;
     line-height: 7.4rem;
     letter-spacing: -0.05rem;
@@ -31288,7 +31314,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .project-in-numbers-section .project-in-numbers-slider .project-info-box .project-info-box-bottom p {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 1.4rem;
     line-height: 2.3rem;
     color: #fff;
@@ -31457,7 +31483,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .project-in-numbers-section .learn-more-container p {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 3rem;
     line-height: 4rem;
     letter-spacing: -0.14rem;
@@ -31586,7 +31612,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .news-page-section .news-page-section-top h1 {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 8.4rem;
     line-height: 1.2;
     color: #94a1a9
@@ -31640,7 +31666,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
     height: 6rem;
     padding: 0 2.5rem;
     position: relative;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 1.2rem;
     letter-spacing: .07rem;
     color: #94a1a9
@@ -31931,7 +31957,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
     padding: 0 3rem;
     background-color: #eaeaea;
     border-radius: 5rem;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 1.2rem;
     letter-spacing: .07rem;
     color: #94a1a9;
@@ -32017,7 +32043,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .news-page-section .brought-to-you p {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 2.4rem;
     line-height: 4rem;
     color: #93a1a8
@@ -32099,7 +32125,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .key-events-strategic-hero-section .hero-content h1 {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 8.4rem;
     line-height: 11rem;
     color: #fff;
@@ -32186,7 +32212,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .key-events-strategic-slider-section .tab-wrapper .years-container .years-inner-container .tab {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 4.8rem;
     line-height: 1.25;
     color: rgba(147, 161, 168, .3);
@@ -32418,7 +32444,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .key-events-strategic-slider-section .tab-wrapper .achievements-kpi-container .tab-detail .achievements-kpi-slider .owl-nav button span {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 1.1rem;
     line-height: 1.5rem;
     letter-spacing: .07rem;
@@ -32500,7 +32526,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .body-national-industrial-dev .further-details {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 3.2rem;
     line-height: 4rem;
     color: rgba(127, 134, 137, .4);
@@ -32577,7 +32603,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .national-industrial-hero-section .hero-content h1 {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 7.2rem;
     line-height: 8.6rem;
     color: #fff;
@@ -32636,7 +32662,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .static-page-section h1 {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     color: #1f396c;
     font-size: 4rem;
     margin: 10rem 0 4rem 0;
@@ -32665,7 +32691,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .static-page-section h2 {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     color: #1f396c;
     font-size: 3.6rem;
     margin: 10rem 0 4rem 0;
@@ -32694,14 +32720,14 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .static-page-section p {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 1.4rem;
     line-height: 2.4rem;
     color: #93a1a8
 }
 
 .static-page-section p strong {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
 }
 
 .static-page-section p+p {
@@ -32713,7 +32739,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .static-page-section ul li {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 1.4rem;
     line-height: 2.4rem;
     color: #93a1a8;
@@ -32730,7 +32756,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .static-page-section strong {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 1.4rem;
     line-height: 2.4rem;
     color: #93a1a8
@@ -32786,7 +32812,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .vision-realization-programs-hero-section .hero-content h1 {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 7.2rem;
     line-height: 8.6rem;
     color: #fff;
@@ -32835,7 +32861,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
     position: absolute;
     z-index: 2;
     color: #fff;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 1.2rem;
     line-height: 1.6rem;
     letter-spacing: .07rem;
@@ -33069,7 +33095,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .bottom-link span {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 3rem;
     line-height: 4rem;
     color: #fff
@@ -33182,7 +33208,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .body-news-detail .related-topics-section h4 {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 3.6rem;
     line-height: 1.15;
     margin-bottom: 7.5rem;
@@ -33296,7 +33322,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .body-news-detail .related-topics-section strong {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 2rem;
     line-height: 3rem;
     color: #1f396c;
@@ -33383,7 +33409,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .pillar-hero-section .hero-content h1 {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 7.2rem;
     line-height: 8.6rem;
     color: #fff;
@@ -33458,7 +33484,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 .pillar-content-section strong {
     max-width: 126rem;
     text-align: center;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 1.4rem;
     line-height: 2.4rem;
     margin-bottom: 12.6rem;
@@ -33735,7 +33761,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .pillar-content-section .pillar-row .pillar-col .heading-wrapper h2 {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 8.4rem;
     letter-spacing: -0.25rem;
     line-height: 9rem
@@ -33768,7 +33794,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 
 .pillar-content-section .pillar-row .pillar-col p {
     margin-bottom: 3rem;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 1.4rem;
     line-height: 2.4rem;
     color: #b4bdc1
@@ -33813,7 +33839,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .pillar-vision-goals h2 {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 6rem;
     line-height: 1.15;
     margin-bottom: 10rem;
@@ -33962,7 +33988,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .pillar-vision-goals .owl-nav button span {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 1.1rem;
     line-height: 1.5rem;
     letter-spacing: .07rem;
@@ -34168,7 +34194,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .people-culture-hero-section .hero-content h1 {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 8.4rem;
     line-height: 11rem;
     color: #fff;
@@ -34279,7 +34305,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .cultural-diversity-section h3 {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 3.6rem;
     color: #fff;
     margin-bottom: 4rem
@@ -34311,7 +34337,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .cultural-diversity-section .cultural-diversity-img-text p {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 1.4rem;
     line-height: 2.4rem;
     color: #fff
@@ -34326,7 +34352,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .cultural-diversity-section .read-more-btn {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 1.1rem;
     color: #1a8030;
     display: -webkit-box;
@@ -34387,7 +34413,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .cultural-diversity-section .watch-video-btn {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 1.2rem;
     line-height: 1.6rem;
     color: #fff;
@@ -34470,7 +34496,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .cultural-diversity-section .cultural-diversity-text p {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 1.4rem;
     line-height: 2.2rem;
     color: #93a1a8;
@@ -34502,7 +34528,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .cultural-aspects-section h2 {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 3.6rem;
     line-height: 1.25;
     margin-bottom: 6.2rem;
@@ -34631,7 +34657,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .cultural-aspects-section .slider-with-thumb .slider-popup h5 {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 3rem;
     color: #fff;
     margin-bottom: 7rem;
@@ -34841,7 +34867,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 .cultural-aspects-section .slider-with-thumb .slider-popup .box p,
 .cultural-aspects-section .slider-with-thumb .slider-popup .box small,
 .cultural-aspects-section .slider-with-thumb .slider-popup .box i {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
 }
 
 .cultural-aspects-section .slider-with-thumb .slider-popup .box span {
@@ -35067,7 +35093,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .cultural-aspects-section .slide-content h4 {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 8.4rem;
     line-height: 1.25;
     letter-spacing: -0.14rem;
@@ -35105,11 +35131,11 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .cultural-aspects-section .slide-content h4 strong {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
 }
 
 .cultural-aspects-section .slide-content p {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 1.4rem;
     line-height: 2.4rem;
     margin-bottom: 4.9rem;
@@ -35313,7 +35339,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .cultural-aspects-section .big-slider .owl-nav button span {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 1.1rem;
     line-height: 1.5rem;
     letter-spacing: .14rem;
@@ -35492,7 +35518,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
     transition: bottom .3s ease-in-out, transform .3s ease-in-out;
     transition: bottom .3s ease-in-out, transform .3s ease-in-out, -webkit-transform .3s ease-in-out;
     bottom: 0;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 1.6rem;
     line-height: 2rem
 }
@@ -35665,7 +35691,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .giga-strategic-hero-section .hero-content h1 {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 8.4rem;
     line-height: 11rem;
     color: #fff;
@@ -35786,7 +35812,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .giga-projects-content-section .filter-container h3 {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 1.5rem;
     line-height: 1.9rem;
     letter-spacing: .12rem;
@@ -35856,7 +35882,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
     -ms-flex-align: center;
     align-items: center;
     padding: 0 2rem;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 1.2rem;
     line-height: 1.6rem;
     letter-spacing: .07rem;
@@ -35974,7 +36000,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 .giga-projects-content-section .filter-container .filter-options a {
     background-color: #eaeaea;
     color: #94a1a9;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 1.2rem;
     line-height: 1.6rem;
     padding: 1.5rem 3rem;
@@ -36117,7 +36143,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 .giga-projects-content-section .giga-projects-content-inner .box-bottom h4 {
     max-width: calc(100% - 8rem);
     width: 100%;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 2rem;
     line-height: 3rem;
     color: #fff
@@ -36160,7 +36186,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
     font-size: 1.2rem;
     line-height: 2rem;
     color: #fff;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
@@ -36233,7 +36259,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
     padding: 0 3rem;
     background-color: #eaeaea;
     border-radius: 5rem;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 1.2rem;
     letter-spacing: .07rem;
     color: #94a1a9;
@@ -36335,7 +36361,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .events-experiences-hero-section .hero-content h1 {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 8.4rem;
     line-height: 11rem;
     color: #fff;
@@ -36427,7 +36453,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
     min-width: 20rem;
     height: 8rem;
     color: #fff;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 2rem;
     padding: 0 6rem;
     background-color: transparent;
@@ -36533,7 +36559,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .events-experiences-content-section .filter-container h3 {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 1.5rem;
     line-height: 1.9rem;
     letter-spacing: .12rem;
@@ -36603,7 +36629,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
     -ms-flex-align: center;
     align-items: center;
     padding: 0 2rem;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 1.2rem;
     line-height: 1.6rem;
     letter-spacing: .07rem;
@@ -36722,7 +36748,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 .events-experiences-content-section .filter-container .filter-options a {
     background-color: #eaeaea;
     color: #94a1a9;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 1.2rem;
     line-height: 1.6rem;
     padding: 1.5rem 3rem;
@@ -36853,7 +36879,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 .events-experiences-content-section .events-experiences-content-inner h4 {
     max-width: 20.4rem;
     width: 100%;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 2rem;
     line-height: 3rem;
     color: #fff;
@@ -36875,7 +36901,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 .events-experiences-content-section .events-experiences-content-inner .box-bottom h5 {
     max-width: calc(100% - 8rem);
     width: 100%;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 2rem;
     line-height: 3rem;
     color: #fff
@@ -36918,7 +36944,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
     font-size: 1.2rem;
     line-height: 2rem;
     color: #fff;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
@@ -36991,7 +37017,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
     padding: 0 3rem;
     background-color: #eaeaea;
     border-radius: 5rem;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 1.2rem;
     letter-spacing: .07rem;
     color: #94a1a9;
@@ -37049,7 +37075,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .body-history-heritage h2 {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 3.6rem;
     line-height: 1.2;
     margin-bottom: 7.5rem;
@@ -37113,7 +37139,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .body-history-heritage .section-6 span {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 2rem;
     line-height: 1.2;
     color: #93a1a8;
@@ -37171,7 +37197,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .history-heritage-hero-section .hero-content h1 {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 8.4rem;
     line-height: 11rem;
     color: #fff;
@@ -37349,7 +37375,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .timeline-section strong {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 2.8rem;
     line-height: 2.9rem;
     color: #1f396c;
@@ -37376,7 +37402,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .timeline-section small {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 1.6rem;
     line-height: 2.9rem;
     color: #1f396c
@@ -37401,7 +37427,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .timeline-section span {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 1.6rem;
     line-height: 2.2rem;
     margin-top: 1.5rem;
@@ -37530,7 +37556,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .founder-section h3 {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 8.4rem;
     line-height: 1.2;
     color: #1a8030
@@ -37555,7 +37581,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .founder-section strong {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 3.6rem;
     line-height: 6rem;
     color: #1f396c;
@@ -37587,7 +37613,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .founder-section small {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 1.4rem;
     line-height: 2.4rem;
     color: #b4bdc1
@@ -37651,7 +37677,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .journey-saudi-arabia-section p {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 1.8rem;
     line-height: 3rem;
     color: #93a1a8;
@@ -37839,12 +37865,12 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .journey-saudi-arabia-section time {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     color: #25b4ba
 }
 
 .journey-saudi-arabia-section span {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     color: #7f8689;
     max-width: 37.5rem;
     width: 100%
@@ -37878,7 +37904,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .body-multimedia h2 {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 3.6rem;
     line-height: 1.2;
     margin-bottom: 7.5rem;
@@ -37992,7 +38018,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
     border-radius: 50%;
     width: 25rem;
     height: 25rem;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 4rem;
     color: #c4c4c4;
     -ms-flex-negative: 0;
@@ -38101,7 +38127,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .multimedia-section p {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 1.4rem;
     line-height: 2.4rem;
     margin-bottom: 8rem;
@@ -38206,7 +38232,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
     padding: 0 3rem;
     border: .2rem solid #94a1a9;
     border-radius: 50px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 1.2rem;
     line-height: 1.6rem;
     letter-spacing: .07rem;
@@ -38263,7 +38289,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 .multimedia-section .multimedia-filter a {
     background-color: #fff;
     color: #94a1a9;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 1.2rem;
     line-height: 1.6rem;
     padding: 1.5rem 3rem;
@@ -38443,7 +38469,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .economy-business-hero-section .hero-content h1 {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 8.4rem;
     line-height: 11rem;
     color: #fff;
@@ -38610,7 +38636,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .body-sustainability .slide-item h2 {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 12rem;
     line-height: 12.8rem;
     color: #fff;
@@ -38634,7 +38660,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .body-sustainability .slide-item p {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 2.4rem;
     line-height: 3.6rem;
     color: #fff;
@@ -38658,7 +38684,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .body-sustainability .slide-item .play-video {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 1.1rem;
     line-height: 1.5rem;
     color: #fff;
@@ -38701,7 +38727,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .body-sustainability .slide-item .watch-stream {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 1.4rem;
     line-height: 2.4rem;
     letter-spacing: .07rem;
@@ -38756,7 +38782,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 .body-sustainability .summary-section h2 {
     font-size: 3.6rem;
     line-height: 1.25;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     color: #71b446;
     margin-bottom: 6rem;
     text-align: center;
@@ -38839,7 +38865,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .body-sustainability .text-with-bg-section p {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
     font-size: 3.6rem;
     line-height: 5.6rem;
     color: #fff;

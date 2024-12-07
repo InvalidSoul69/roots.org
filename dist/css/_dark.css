@@ -1,7 +1,7 @@
 /*
 ======================================
 Dark Mode lib (v0.0.1 alpha) By Dejavu
---------Coded By Sammi Seddig---------
+--------Coded By Sami Sideg---------
 ============2022======================
 */
 
@@ -9,7 +9,7 @@ Dark Mode lib (v0.0.1 alpha) By Dejavu
 /* :root {
     filter: invert(100%);
 } */
-
+/* 
 .btn-toggle {
     background: darkcyan;
     border: none;
@@ -39,4 +39,4 @@ Dark Mode lib (v0.0.1 alpha) By Dejavu
 .nee a {
     color: #fff;
     text-decoration: none;
-}
+} */
