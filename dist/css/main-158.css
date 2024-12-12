@@ -9544,6 +9544,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 
 .breadcrumb {
     position: absolute;
+    /* background: #ffffff1a; */
     width: 100%;
     left: 0;
     top: 14rem;
@@ -9613,7 +9614,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 
 .breadcrumb ul li:not(:last-child)::after {
     content: "";
-    background-image: url("https://www.vision2030.gov.sa/dist/img/icons/breadcrumb-arrow.svg");
+    background-image: url("../img/sustainability/slide-arrow.svg");
     background-position: center;
     background-repeat: no-repeat;
     display: inline-block;
@@ -9732,7 +9733,7 @@ footer .footer-bottom .footer-bottom-right ul li a svg path {
 }
 
 .breadcrumb.white-header-breadcrumb ul li:not(:last-child)::after {
-    background-image: url("https://www.vision2030.gov.sa/dist/img/icons/breadcrumb-arrow-gray.svg")
+    background-image: url("../img/sustainability/slide-arrow.svg")
 }
 
 .body-vrp-history .card-front::before {
